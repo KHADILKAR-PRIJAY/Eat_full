@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "909938426557",
+    "project_id": "eatfull-d705b",
+    "storage_bucket": "eatfull-d705b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909938426557:android:87d77e6090278da4606dd4",
+        "android_client_info": {
+          "package_name": "com.u6amtech.flutter_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909938426557-hsmm6hlsii8k3sikpdom8g1rhjo9c134.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.flutter_customer",
+            "certificate_hash": "f07763c7a1d86330e369e0963fcb92054860ef8a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObuIBby4Ii8SMMtOJ1CqlG8bkzXsbM-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
